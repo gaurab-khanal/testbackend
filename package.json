@@ -9,7 +9,8 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "start": "nodemon app.js"
+     "start": "node index.js",
+      "dev": "nodemon index.js"
   },
   "author": "",
   "license": "ISC",
